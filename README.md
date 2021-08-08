@@ -40,3 +40,13 @@ Screenshot of Heroku app deployment  -->"fake-news-1o7"
 
 ![Screenshot (564)](https://user-images.githubusercontent.com/56560771/128636119-385bc260-6407-4f70-92de-fe34cd9012c2.png)
 
+DEMO:
+
+![Screenshot (569)](https://user-images.githubusercontent.com/56560771/128637309-baa9e270-81da-41fc-b626-185449818240.png)
+
+
+
+
+![Screenshot (570)](https://user-images.githubusercontent.com/56560771/128637323-094f6a97-6b7c-42ca-9d96-d537622fed3e.png)
+
+
