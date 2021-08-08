@@ -33,7 +33,10 @@ I have also done sentiment analysis.
 we can clearly see fake datasets have negative polarity.
 
 
-Screenshot of Heroku app deployment
+Screenshot of Heroku app deployment  -->"fake-news-1o7"
+
+![Screenshot (568)_LI](https://user-images.githubusercontent.com/56560771/128636970-c2bb1dea-32dd-4cc9-b528-f08f6e005de9.jpg)
+
 
 ![Screenshot (564)](https://user-images.githubusercontent.com/56560771/128636119-385bc260-6407-4f70-92de-fe34cd9012c2.png)
 
